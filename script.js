@@ -292,6 +292,7 @@ if (visaForm) {
                 alert(
                     "Please fill all required fields."
                 );
+                
 
                 return;
 
